@@ -1,0 +1,29 @@
+.App{
+  padding:0%;
+  background: rgb(255 250 250);;
+}
+.gridMovie{
+  display: grid;
+}
+.movieCard{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  box-shadow: 5px 9px 25px rgb(47 79 79);;
+}
+
+/* .movielist_filter{
+  display: flex;
+  justify-content: space-around
+} */
+
+.movieList_Add{
+  display: flex;
+  justify-content: space-evenly;
+}
+.Lfilms
+{
+  margin: 15%;
+  padding: auto;
+  width: 100%;
+}
